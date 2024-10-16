@@ -33,7 +33,7 @@ To use this bot, you need to register it with the Goats Telegram Bot.
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/jawikas/goats-bot.git
+git clone https://github.com/wpsabbir688/goats
 cd goats-bot
 ```
 **Create a virtual environment (optional but recommended)**
